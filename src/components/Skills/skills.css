@@ -1,0 +1,8 @@
+.industry-skill-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.font{
+		font-family: 'Modak', cursive;
+}

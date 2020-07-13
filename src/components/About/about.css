@@ -1,0 +1,15 @@
+.about-container {
+    font-size: 17px;
+    white-space: pre-wrap;
+}
+h1{
+	margin-bottom: 0px;
+}
+p{
+	margin-top: 0px;
+}
+.font{
+		font-family: 'Modak', cursive;
+		color: white;
+	
+}

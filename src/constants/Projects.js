@@ -6,7 +6,7 @@ export const projects = {
             name: "Contacts Application",
             description: "  A react based app that fuctions as phonebook and able to filters out contacts from phonebook by searching with a keyword.",
             link: "https://github.com/BrajGupta/Portfolio/"
-            
+             
         },
         {
             name: "Portfolio",

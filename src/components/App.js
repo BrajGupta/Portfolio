@@ -2,6 +2,7 @@ import React,{Component} from 'react';
 import './App.css';
 import Portfolio from './Portfolio/Portfolio.js';
 import Particles from 'react-particles-js';
+import Footer from './Footer';
 
 
 
@@ -41,7 +42,9 @@ class App extends Component {
                     <Portfolio
                     handleclick = {this.handleSectionClick}
                     route = {this.state.route}
-                />
+                    />
+                    <Footer/>
+
             </div>
   );
     }
